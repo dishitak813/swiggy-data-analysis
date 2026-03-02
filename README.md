@@ -43,3 +43,7 @@ Contains 8,680 restaurant records with 10 features, including:
 ---
 
 ## Sample Visualisations
+
+<img width="1999" height="906" alt="top_10_cities_barchart" src="https://github.com/user-attachments/assets/df5cc483-799b-4046-85e9-8880c61a1791" />
+<img width="1162" height="911" alt="distribution_histplot" src="https://github.com/user-attachments/assets/aafd6003-ff52-4ef6-b973-5b1373a2a21e" />
+<img width="1693" height="1050" alt="city_wise_rating_boxplot" src="https://github.com/user-attachments/assets/511e0f26-f7ad-4471-9d76-c23eee051b00" />
