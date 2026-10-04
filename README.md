@@ -1,7 +1,7 @@
 # Swiggy Restaurant Data Analysis
 
 ## Project Objective
-To analyse Swiggy restaurant data and answer key business questions related to city-wise distribution, pricing trends, and customer rating behaviour using Python.
+To analyse Swiggy restaurant data and answer key business questions about city-wise distribution, pricing trends, and customer rating behaviour using Python.
 
 ---
 
